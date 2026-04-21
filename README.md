@@ -78,11 +78,11 @@ Pods → Fluentd (DaemonSet) → Elasticsearch → Grafana
 
 manifests/
 
-&#x20; ├── fluentd/
+├── fluentd/
 
-&#x20; ├── elasticsearch.yaml/
+├── elasticsearch.yaml
 
-&#x20; ├── grafana.yaml
+├── grafana.yaml
 
 ```
 
